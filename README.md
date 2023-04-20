@@ -1,6 +1,6 @@
 # Kings County House Sales Prediction
 
-![homes_stock_photo](images/gettyimages-530426760_750xx4831-2714-0-911.jpg)
+![homes_stock_photo](images/gettyimages-530426760_750xx4831-2714-0-911xxxx.jpg)
 
 #### Authors: Maureen Kitanga, Samuel Kyalo, Priscila Kamiri, Leo Kariuki, Jimcollins Wamae & Steve Githinji
 
