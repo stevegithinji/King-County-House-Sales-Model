@@ -1,6 +1,6 @@
 # Kings County House Sales Prediction
 
-![homes_stock_photo](images/images.jpg)
+![another_homes_stock_photo](images/sale.jpg)
 
 #### Authors: Maureen Kitanga, Samuel Kyalo, Priscila Kamiri, Leo Kariuki, Jimcollins Wamae & Steve Githinji
 
@@ -81,7 +81,7 @@ A further study may be required with a larger dataset for better insights.
 See the full analysis in the [Jupyter Notebook](https://github.com/stevegithinji/King-County-House-Sales-Model/blob/master/King-County-House-Sales-Prediction.ipynb) or review this [presentation](https://github.com/stevegithinji/King-County-House-Sales-Model/blob/master/Powerpoint%20presentation.pptx).
 
 
-![another_homes_stock_photo](images/images (1).jpg)
+![homes_stock_photo](images/images.jpg)
 
 
 ## Repository Structure
